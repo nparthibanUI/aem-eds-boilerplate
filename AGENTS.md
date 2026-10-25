@@ -20,3 +20,4 @@ Edge Delivery Services. Read a block first. Omissions are in the repo or known.
 - A PR without a `{branch}--aem-eds-boilerplate--nparthibanUI.aem.page/{path}` link is rejected.
 - All committed files are served. Use `.hlxignore`.
 - Skills: `/plugin marketplace add adobe/skills`, then `aem-edge-delivery-services` (24 skills, incl. `docs-search`).
+- Docs: https://www.aem.live/llms.txt; search www.aem.live only. Not the Java/JCR AEM stack.
